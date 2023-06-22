@@ -1,4 +1,4 @@
-Live Link: https://najmus-bootsrap-assignement.netlify.app/
+Live Link: https://najmus-bootstrap-assignement.netlify.app/
 
 
 Main component
