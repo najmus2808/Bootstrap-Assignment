@@ -1,0 +1,44 @@
+Main component
+1. navbar
+2. table
+3. pagination
+4. form
+5. alert
+6. list group and spinner
+7. progress bar
+8. canvas
+9. modal
+10. tab view
+11. light/dark mode
+
+
+All required fields
+1. responsive layout, 
+2. light/dark mode, 
+3. container,
+4. row,
+5.column, 
+6.gutters,
+7. typography, 
+8.images,
+9.table,
+10.pagination, 
+11.form,
+12.placeholders, 
+13.alert,
+14.button, 
+15.list group and spinner,
+16. progress bar, 
+17. canvas, 
+18. modal,
+19. tab view, 
+20. navbar,
+21. navbar positioning,
+22. aspect ratio,
+23. and utilities.
+
+
+
+
+
+
