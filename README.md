@@ -25,3 +25,13 @@ Build a web application using Bootstrap version 5.The application should include
 17. Include a responsive navbar with appropriate positioning and styling. The navbar should provide easy access to different sections or features of the application.
 18. Ensure that aspect ratios of images and other media elements are maintained properly across different devices and screen sizes.
 19. Utilize Bootstrap utilities and helper classes where necessary to achieve the desired layout and styling.
+
+**Instructions:**
+
+1. Use HTML, CSS, Bootstrap version 5, and JavaScript to build the web application.
+2. Organize your code into separate files (e.g., HTML, CSS, JS) and include comments to explain the purpose of each section.
+3. Use appropriate naming conventions and adhere to best practices for code readability and maintainability.
+4. Ensure the web application is visually appealing, easy to use, and error-free.
+5. Test the application thoroughly on different devices and browsers to ensure compatibility and responsiveness.
+6. Create a GitHub repository to host your project and commit your code regularly with meaningful commit messages.
+7. Provide a README.md file that includes a project overview, instructions to run the application locally, and any additional notes or considerations.
