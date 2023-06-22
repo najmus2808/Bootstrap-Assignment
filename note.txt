@@ -1,3 +1,6 @@
+Live Link: https://najmus-bootsrap-assignement.netlify.app/
+
+
 Main component
 1. navbar
 2. table
